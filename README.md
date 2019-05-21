@@ -6,8 +6,10 @@
 - **Readings.**
 
 ### Projects
+My projects repositories are: 
+- **Device simulation:** This repository contains python code for diffusion of Boron in Silicon wafer. This was my class porject please click [here](http://sumit-ai.me/device-simulation/) 
 
-### Research Projects
+### Research Papers
 
 ### Readings
 
@@ -17,9 +19,7 @@
 
 
 
-Here is the short discription of my repositories:
 
-You can use the [editor on GitHub](https://github.com/Sumit-ai/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
