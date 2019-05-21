@@ -1,10 +1,15 @@
 ## My Resume
 
 #### I have devided types of my repositories into three parts:
-- **Projects** 
-- **Research Papers** 
+- **Projects.** 
+- **Research Papers.** 
 - **Readings.**
 
+### Projects
+
+### Research Projects
+
+### Readings
 
 Here is the short discription of my repositories:
 
