@@ -1,6 +1,12 @@
 ## My Resume
 
-### Here is the short discription of my repositories:
+#### I have devided types of my repositories into three parts:
+- **Projects** 
+- **Research Papers** 
+- **Readings.**
+
+
+Here is the short discription of my repositories:
 
 You can use the [editor on GitHub](https://github.com/Sumit-ai/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -30,10 +36,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sumit-ai/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
